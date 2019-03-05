@@ -2,10 +2,14 @@
 main:
   - title: "About me"
     url: /about/index.html
-  - title: "Photography"
-    url: /photography/index.html
   # - title: "Research"
-  #   url: https://welcmatt.github.io/welcmatt.github.io/
+  #   url: /research/index.html
+  # - title: "Fieldwork"
+  #   url: /fieldwork/index.html
+    - title: "Photography"
+      url: /photography/index.html
+  # - title: "CV"
+  #   url: /cv/index.html 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
