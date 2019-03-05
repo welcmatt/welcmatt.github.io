@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About me"
-    url: https://welcmatt.github.io/welcmatt.github.io/about/index.html
+    url: /about/index.html
   - title: "Photography"
-    url: https://welcmatt.github.io/welcmatt.github.io/photography/index.html
+    url: /photography/index.html
   # - title: "Research"
   #   url: https://welcmatt.github.io/welcmatt.github.io/
   # - title: "Sample Posts"
